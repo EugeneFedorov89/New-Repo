@@ -27,7 +27,7 @@
 
 .container ul li a {
 
-    text-decoration: green;
+    text-decoration: black;
 
 }
 
@@ -97,7 +97,7 @@ section h3 {
 
     font-family: "Roboto";
 
-    color: rgb(98, 98, 98);
+    color: gray;
 
     line-height: 1.2;
 
@@ -119,13 +119,13 @@ footer button {
 
     font-family: "Roboto";
 
-    color: red;
+    color: black;
 
     line-height: 1.2;
 
     border-width: 1px;
 
-    border-color: greenyellow;
+    border-color: none;
 
     border-style: solid;
 
